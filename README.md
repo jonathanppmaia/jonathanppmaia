@@ -1,6 +1,6 @@
-Olá, eu sou Jonathan Maia !!
+Hi, I'm Jonathan Maia !!
 
-- 🖥 Trabalho com Projetos e Design Grafico
-- 📘 Estudante de UX UI e Front-End - E.B.A.C
-- 📗 M.B.A Marketing digital e rede sociais - Descomplica
-- ✏ Design Gráfico - Opa Escola de Design
+- 🖥 Working with Cultural Project and Graphic Design
+- 📘 Student - UX UI e Front-End - E.B.A.C
+- 📗 M.B.A Digital Marketing e Social Media - Descomplica
+- ✏ Graphic Design - Opa! Escola de Design
