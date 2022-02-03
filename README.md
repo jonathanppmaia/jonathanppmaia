@@ -1,6 +1,6 @@
 #### Hi, I'm Jonathan Maia 🖐️
 
-Bacharel em Adminitração pela Faculdade Farias Brito, Designer Gráfico pela Opa! Escola de Design.
+Bacharel em Administração pela Faculdade Farias Brito, Designer Gráfico pela Opa! Escola de Design.
 
 Estudante do Curso Engenheiro Front-End na E.B.A.C (Escola Britânica de Artes Criativas e Tecnologia).
 
