@@ -7,9 +7,10 @@ Estudante do Curso Engenheiro Front-End na E.B.A.C (Escola Britânica de Artes C
 Área de interesse: Front-End.
 No momento estudando Html CSS e Java Script.
 
-Compartilhando conhecimento que vou adquirindo e projetos desenvolvidos por aqui. Fique a vontande para deixar qualquer feedback, ajuda  chamando pelo Linkedin.
+Compartilhando conhecimento que vou adquirindo e projetos desenvolvidos por aqui. Fique a vontande para deixar qualquer feedback, ajuda chamando pelo Linkedin.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanppmaia) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jonathanppmaia)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanppmaia) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&<br>logoColor=white)](https://www.behance.net/jonathanppmaia)
+<br>
 ![Jonathan Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanppmaia&show_icons=true&theme=dark)
 
 #### Tecnologias e Linguagens:
