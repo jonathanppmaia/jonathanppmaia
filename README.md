@@ -1,10 +1,10 @@
 #### Hi, I'm Jonathan Maia 🖐️
 
 
-💻 Desenvolvevor Front-End -  Html CSS e Java Script.
-📘Estudante do Curso Engenheiro de Software (1º Semestre).
-💡Bacharel em Administração - Faculdade Farias Brito - Fortaleza-CE
-✒️Designer Gráfico - Opa! Escola de Design - Fortaleza-CE
+💻 Desenvolvevor Front-End -  Html CSS e Java Script.<br/>
+📘Estudante do Curso Engenheiro de Software (1º Semestre).<br/>
+💡Bacharel em Administração - Faculdade Farias Brito - Fortaleza-CE<br/>
+✒️Designer Gráfico - Opa! Escola de Design - Fortaleza-CE<br/>
 
 
 Compartilhando conhecimento que vou adquirindo e projetos desenvolvidos por aqui. Fique a vontande para deixar qualquer feedback, ajuda chamando pelo Linkedin.
