@@ -2,7 +2,7 @@
 
 
 💻 Desenvolvevor Front-End -  Html CSS e Java Script.<br/>
-📘Estudante do Curso Engenheiro de Software - Unopar (1º Semestre).<br/>
+📘Estudante do Curso Engenheiro de Software - Unopar (2º Semestre 2022.2).<br/>
 💡Bacharel em Administração - Faculdade Farias Brito - Fortaleza-CE<br/>
 ✒️Designer Gráfico - Opa! Escola de Design - Fortaleza-CE<br/>
 
