@@ -1,10 +1,10 @@
 #### Hi, I'm Jonathan Maia 🖐️
 
 
-💻 Desenvolvevor Front-End -  Html CSS e Java Script.<br/>
-📘Estudante do Curso Engenheiro de Software - Unopar (2º Semestre 2022.2).<br/>
-💡Bacharel em Administração - Faculdade Farias Brito - Fortaleza-CE<br/>
-✒️Designer Gráfico - Opa! Escola de Design - Fortaleza-CE<br/>
+💻 Programmer | Front-End Developer | HTML | CSS | JavaScript |<br/>
+📘Software engineering Student - Unopar (2º Semestre 2022.2).<br/>
+💡Bachelor in Business Administration - Faculdade Farias Brito - Fortaleza-CE<br/>
+✒️Graphic Design - Opa! Escola de Design - Fortaleza-CE<br/>
 
 
 Compartilhando conhecimento que vou adquirindo e projetos desenvolvidos por aqui. Fique a vontande para deixar qualquer feedback, ajuda chamando pelo Linkedin.
