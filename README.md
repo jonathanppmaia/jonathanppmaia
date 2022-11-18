@@ -1,4 +1,5 @@
 #### Hi, I'm Jonathan Maia 🖐️
+#### 👋 Hello! Welcome to my Github profile.
 
 
 💻 Programmer | Front-End Developer | HTML | CSS | JavaScript |<br/>
@@ -18,6 +19,7 @@ Compartilhando conhecimento que vou adquirindo e projetos desenvolvidos por aqui
 <div style="display:inline_block">
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="css3" src="https://img.shields.io/badge/JAVASCRIPT-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </div>
   <br>
