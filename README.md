@@ -8,7 +8,7 @@
 ✒️Graphic Design - Opa! Escola de Design - Fortaleza-CE<br/>
 
 
-Compartilhando conhecimento que vou adquirindo e projetos desenvolvidos por aqui. Fique a vontande para deixar qualquer feedback, ajuda chamando pelo Linkedin.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanppmaia) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&<br>logoColor=white)](https://www.behance.net/jonathanppmaia)
 <br>
