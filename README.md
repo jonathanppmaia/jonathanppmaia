@@ -2,7 +2,7 @@
 #### 👋 Hello! Welcome to my Github profile.
 
 
-💻Developer | HTML | CSS | JavaScript |<br/>
+💻Developer Java | HTML | CSS | JavaScript |<br/>
 📘Software engineering Student<br/>
 💡Bachelor in Business Administration - Faculdade Farias Brito - Fortaleza-CE<br/>
 ✒️Graphic Design - Opa! Escola de Design - Fortaleza-CE<br/>
